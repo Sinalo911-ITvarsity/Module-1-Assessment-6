@@ -1,0 +1,47 @@
+.gallery img{
+    width: 80%;
+    display: flex;
+    justify-content: center;
+}
+
+h4 {
+   font-family: "Helvetica" sans-serif
+    font-weight: 800px;
+    text-decoration: underline;
+}
+
+h2 {
+    font-weight: 800px;
+    text-decoration: none;
+}
+
+#menu{
+    width: 100%;
+    height: 50px;
+    padding-top: 10px;
+    
+}
+
+#menu a{
+    text-decoration: none;
+    width: 100%;
+    background-color: #fee3f3;
+    font-size: 20px;
+    font-weight: 800px;
+    padding: 11px;
+    
+}
+
+.button {
+    position: bottom;
+    top: 50%;
+    background-color: #0a0a23;
+    color: #fff;
+    border: none;
+    border-radius: 10px;
+    padding: 15px;
+    min-height: 35px;
+    min-width: 120px;
+}
+
+
